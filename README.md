@@ -32,7 +32,7 @@ Below are screenshots of the app, arranged in a grid of 4 per row:
 
 | ![Screenshot 1](assets/Screenshots/1.png) | ![Screenshot 2](assets/Screenshots/2.png) | ![Screenshot 3](assets/Screenshots/3.png) | ![Screenshot 4](assets/Screenshots/4.png) |
 |-------------------------------------------|-------------------------------------------|-------------------------------------------|-------------------------------------------|
-| ![Screenshot 5](assets/Screenshots/5.png) | ![Screenshot 6](assets/Screenshots/6.png) | ![Screenshot 7](assets/Screenshots/7.png) | ![Screenshot 8](assets/Screenshots/8.png) |
+| ![Screenshot 5](assets/Screenshots/5.png) | ![Screenshot 6](assets/Screenshots/6.png) | ![Screenshot 7](assets/Screenshots/7.png) | ![Screenshot 8](assets/Screenshots/8.jpg) |
 
 ---
 
