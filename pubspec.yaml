@@ -74,6 +74,7 @@ flutter:
     - assets/Images/
     - assets/Icons/
     - assets/Lottie/
+    - assets/Screenshots/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
